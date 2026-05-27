@@ -1,0 +1,8 @@
+# Node artifacts
+node_modules/
+
+# Build outputs
+dist/
+
+# Local environment
+.env
